@@ -1,0 +1,26 @@
+@import url('header.css');
+@import url('footer.css');
+@import url('carousel.css');
+@import url('products.css');
+@import url('service.css');
+@import url('testimonial.css');
+@import url('client.css');
+@import url('about.css');
+@import url('contact.css');
+@import url('singleproduct.css');
+
+*{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.custom-button{
+    background-color: #22469e;
+    padding: 12px 16px;
+    color: #fff;
+    border: 1px solid transparent;
+    font-size:22px;
+}
+.custom-button:hover{
+	background:#11234e;
+	color:#ffffff;
+	text-decoration: none;
+}

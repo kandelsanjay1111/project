@@ -1,0 +1,32 @@
+.contact-content{
+    padding: 61px 0px;
+}
+.contact-list{
+	line-height: 50px;
+	display: flex;
+}
+.contact-icon{
+	width:103px;
+    padding: 5px 15px;
+    font-size: 3em;
+    color: #22369c;
+}
+.contact-item h2{
+	font-weight: 800;
+	color:#22369c;
+}
+.contact-item p{
+	font-size: 22px;
+}
+textarea.form-control{
+	min-height: 150px;
+}
+.form-control{
+	font-size:1.3rem;
+	color:#000000;
+	border:1px solid #e2e6f1;
+}
+.form-control:focus{
+	border:1px solid blue;
+	box-shadow: none;
+}

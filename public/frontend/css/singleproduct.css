@@ -1,0 +1,26 @@
+.single-product{
+	min-height: 400px;
+	padding:100px 10px;
+	background:beige;
+}
+.single-product-content{
+	background:#fff;
+	font-size:19px;
+}
+.single-product h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #22469e;
+    position: relative;
+}
+.single-product ul{
+	list-style-type: none;
+	line-height: 30px;
+}
+.single-product-title{
+	color: #22469e;
+    margin-right: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
